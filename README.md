@@ -9,7 +9,7 @@
 - Efficient display multiplexing
 - Modular C driver development
 
-> This project was completed as part of an Embedded Systems lab assignment. Due: **5 May 2025**.
+![InterruptHandler System Overview](https://github.com/user-attachments/assets/71f2e2ad-f7e6-4b17-839e-11ace7bb7ff3)
 
 ---
 
@@ -21,12 +21,6 @@
 - Real-time counter updates based on EXTI ISR
 - Race condition protection via critical sections (`__disable_irq()`)
 - Proteus simulation and hardware-ready logic
-
----
-
-### Overview Image
-
-![InterruptHandler System Overview](https://github.com/user-attachments/assets/87a9a6e1-b687-4b3e-b07a-e8e645abeb01)
 
 ---
 
