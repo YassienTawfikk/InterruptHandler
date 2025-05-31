@@ -26,8 +26,6 @@
 
 ### Demo Video
 
->  *Insert project video walk-through link here:*
-
 [Watch the full demo](https://github.com/user-attachments/assets/638e973a-b29c-4909-9bcb-e69c5cb83090)
 
 ---
