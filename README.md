@@ -26,7 +26,7 @@
 
 ### Demo Video
 
-[Watch the full demo](https://github.com/user-attachments/assets/638e973a-b29c-4909-9bcb-e69c5cb83090)
+[Watch the full demo](https://github.com/user-attachments/assets/4482cfc3-b778-4457-8908-76c10578a72c)
 
 ---
 
