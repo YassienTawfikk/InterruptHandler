@@ -52,16 +52,16 @@
 
 ### Project Structure
 
-```plaintext
-Simulation/
-├── InterruptHandler.pdsprj                # Proteus simulation project
-
-stm32f4-task5/
+```
+InterruptHandler/
 ├── cmake/                                 # CMake build system files
 │   ├── ArmToolchain.cmake
 │   ├── Device.cmake
 │   ├── IncludeList.cmake
 │   └── SourceList.cmake
+├── Proteus/
+│   └── InterruptHandler.pdsprj            # Proteus simulation project
+
 ├── EXTI/                                  # External interrupt driver
 ├── Gpio/                                  # GPIO abstraction layer
 ├── include/                               # Header includes
@@ -74,6 +74,7 @@ stm32f4-task5/
 ├── STM32-base/
 ├── STM32-base-STM32Cube/
 ├── CMakeLists.txt
+├── .gitignore
 └── README.md
 ```
 
