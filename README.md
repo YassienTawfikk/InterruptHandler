@@ -59,9 +59,10 @@ InterruptHandler/
 │   ├── Device.cmake
 │   ├── IncludeList.cmake
 │   └── SourceList.cmake
+│
 ├── Proteus/
 │   └── InterruptHandler.pdsprj            # Proteus simulation project
-
+│
 ├── EXTI/                                  # External interrupt driver
 ├── Gpio/                                  # GPIO abstraction layer
 ├── include/                               # Header includes
